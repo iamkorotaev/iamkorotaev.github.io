@@ -1,1 +1,0 @@
-# iamkorotaev.github.io
