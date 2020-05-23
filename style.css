@@ -1,0 +1,32 @@
+html, body {
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+body {
+  background: url('https://media.giphy.com/media/l0Iy6UK9zPhEfFs8U/giphy.gif');
+  background-size: cover;
+  background-position: center;
+}
+h1 {
+
+background-color: rgba(255, 255, 255, 0.1);
+  font-family: sans-serif;
+text-align:justify ;
+  border: 5px solid black;
+  padding: 0.5em;
+  color: #000;
+  cursor: default;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  user-select: none;
+}
+A {
+    text-decoration: none;
+	color: black; 
+   } 
+   A:hover { 
+    text-decoration: underline;
+    color: black; 
+   } 
